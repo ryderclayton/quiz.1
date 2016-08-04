@@ -1,3 +1,24 @@
 // Place all the styles related to the quiz controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.square {
+
+ background: #006EFF;
+ color: #FAFBFC;
+ text-align: center;
+ width: 300px;
+ height: 100px;
+ margin: 12px 12px;
+ font-size: 22px;
+ font-weight: bold;
+ line-height: 24px;
+
+}
+
+h1 {
+  width: 940px;
+  margin: 0 auto;
+  color: #FF002B;
+
+}
